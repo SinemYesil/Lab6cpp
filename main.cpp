@@ -78,9 +78,9 @@ int main() {
     cout<<"Final recursion result:"<<result<<endl;//q3
     cout<<"********";
     double result4=calSum2();
-    cout<<"Final result without recursive:"<<result4<<endl;
+    cout<<"Final result without recursive:"<<result4<<endl;//q4
     double result5=calSumRecursion2();
-    cout<<"Final result with recursive:"<<result5<<endl;
+    cout<<"Final result with recursive:"<<result5<<endl;//q4
 
 
 
